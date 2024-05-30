@@ -1,6 +1,3 @@
-# Hack2TechSustain - Team ByteTribe
-
-
 ## Problem Statement 
 
 Building Bridges with NLP: Communication Beyond Speech
@@ -33,4 +30,7 @@ Our projects aims to create an application that is tailored for individuals havi
 - Anwin Sharon
 - Saket Gudimella
 - Kushargra Purohith
+
+Developed by Team ByteTribe at Hack2TechSustain'24 
+
 
