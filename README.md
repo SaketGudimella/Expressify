@@ -31,6 +31,6 @@ Our projects aims to create an application that is tailored for individuals havi
 - Saket Gudimella
 - Kushargra Purohith
 
-Developed by Team ByteTribe at Hack2TechSustain'24 
+Developed by Team ByteTribe at Hack2TechSustain'24  
 
 
